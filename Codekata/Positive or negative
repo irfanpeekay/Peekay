@@ -4,4 +4,4 @@ if (a>0):
 elif (a<0):
   print("\n The given number is negative")
 else:
-  print("\n Invalid input")
+  print("\n Zero")
