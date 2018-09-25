@@ -1,11 +1,8 @@
-a = int(input("Input:"))
+a = int(input())
 if a > 0:
 	if a % 2 == 0:
-		print("\nEven")
-	
-	elif a % 2 != 0:
-		print("\nOdd")
+		print("Even")
 	else:
-		print("\nInvalid")
+		print("Odd")
 else:
-	print("\nInvalid")
+	print("Invalid")
