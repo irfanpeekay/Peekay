@@ -4,4 +4,4 @@ while(Number > 0):
     Number = Number // 10
     Count = Count + 1
 
-print("\n There are %d digits" %Count)
+print("\n %d" %Count)
